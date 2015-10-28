@@ -23,6 +23,23 @@
       <sprite>sprites\spr_DesAbjDer</sprite>
       <sprite>sprites\spr_DesVertical</sprite>
       <sprite>sprites\spr_DesHorizontal</sprite>
+      <sprite>sprites\spr_DesTHorDer</sprite>
+      <sprite>sprites\spr_DesTHorIzq</sprite>
+      <sprite>sprites\spr_DesFinVerAbj</sprite>
+      <sprite>sprites\spr_DesTHorAbjAbj</sprite>
+      <sprite>sprites\spr_DesTVertAbj</sprite>
+      <sprite>sprites\spr_DesTVHorIzq</sprite>
+      <sprite>sprites\spr_DesTHorArr</sprite>
+      <sprite>sprites\spr_DesTHorAbj</sprite>
+      <sprite>sprites\spr_DesRoca01</sprite>
+      <sprite>sprites\spr_DesHorRoto</sprite>
+      <sprite>sprites\spr_DesFinHorDer</sprite>
+      <sprite>sprites\spr_DesFinVerArr</sprite>
+      <sprite>sprites\spr_DesAgujero</sprite>
+      <sprite>sprites\spr_DesGenerador</sprite>
+    </sprites>
+    <sprites name="Malos">
+      <sprite>sprites\spr_MoradorArenas</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background">
@@ -31,6 +48,7 @@
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_Luke</object>
+    <object>objects\obj_Disparo</object>
     <objects name="Desierto">
       <object>objects\obj_DesArrIzq</object>
       <object>objects\obj_DesArrDer</object>
@@ -38,8 +56,24 @@
       <object>objects\obj_DesAbjDer</object>
       <object>objects\obj_DesVertical</object>
       <object>objects\obj_DesHorizontal</object>
+      <object>objects\obj_DesTHorDer</object>
+      <object>objects\obj_DesTHorIzq</object>
+      <object>objects\obj_DesFinVerAbj</object>
+      <object>objects\obj_DesTHorAbjAbj</object>
+      <object>objects\obj_DesTVertAbj</object>
+      <object>objects\obj_DesTVHorIzq</object>
+      <object>objects\obj_DesTHorArr</object>
+      <object>objects\obj_DesTHorAbj</object>
+      <object>objects\obj_DesRoca01</object>
+      <object>objects\obj_DesHorRoto</object>
+      <object>objects\obj_DesFinHorDer</object>
+      <object>objects\obj_DesFinVerArr</object>
+      <object>objects\obj_DesAgujero</object>
+      <object>objects\obj_DesGenerador</object>
     </objects>
-    <object>objects\obj_Disparo</object>
+    <objects name="Malos">
+      <object>objects\obj_MoradorArenas</object>
+    </objects>
   </objects>
   <rooms name="rooms">
     <room>rooms\rom_Desierto</room>
