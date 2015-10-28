@@ -197,10 +197,54 @@ image_speed = 1;
 
 x-=velocidad;
 
-if (keyboard_check(vk_space))
+</string>
+          </argument>
+        </arguments>
+      </action>
+    </event>
+    <event eventtype="9" enumb="32">
+      <action>
+        <libid>1</libid>
+        <id>603</id>
+        <kind>7</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
+            <string>if (sprite_index = spr_LukeAbajo)
 {
-disparo = instance_create(x-1,y+16,obj_Disparo);
-disparo.hspeed= -8;
+disparo = instance_create(x+8,y,obj_Disparo);
+disparo.sprite_index = spr_DispVertical;
+disparo.vspeed = 16;
+}
+else
+if (sprite_index = spr_LukeArriba)
+{
+disparo = instance_create(x+23,y,obj_Disparo);
+disparo.sprite_index = spr_DispVertical;
+disparo.vspeed = -16;
+}
+else
+if (sprite_index = spr_LukeIzquierda)
+{
+disparo = instance_create(x,y+20,obj_Disparo);
+//disparo.sprite_index = spr_DispVertical;
+disparo.hspeed = -16;
+}
+else
+if (sprite_index = spr_LukeDerecha)
+{
+disparo = instance_create(x+16,y+20,obj_Disparo);
+//disparo.sprite_index = spr_DispVertical;
+disparo.hspeed = 16;
 }
 </string>
           </argument>
