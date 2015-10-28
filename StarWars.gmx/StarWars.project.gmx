@@ -6,6 +6,8 @@
   <NewExtensions/>
   <sounds name="sound">
     <sound>sound\snd_Blaster</sound>
+    <sound>sound\snd_Muerto</sound>
+    <sound>sound\snd_Explode01</sound>
   </sounds>
   <sprites name="sprites">
     <sprites name="Luke">

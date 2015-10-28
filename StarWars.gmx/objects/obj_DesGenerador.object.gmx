@@ -3,7 +3,7 @@
   <spriteName>spr_DesGenerador</spriteName>
   <solid>0</solid>
   <visible>-1</visible>
-  <depth>-1</depth>
+  <depth>10</depth>
   <persistent>0</persistent>
   <parentName>&lt;undefined&gt;</parentName>
   <maskName>&lt;undefined&gt;</maskName>
@@ -95,7 +95,10 @@ instance_create(x,y,obj_MoradorArenas);
             <string>vida -=1;
 if (vida = 0)
 {
+effect_create_above(ef_explosion, x+16, y+16, 0, c_maroon);
+audio_play_sound(snd_Explode01,1,0);
 instance_destroy();
+
 }
 </string>
           </argument>

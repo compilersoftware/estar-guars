@@ -28,6 +28,7 @@
             <string>image_speed = 0;
 image_index = 1;
 velocidad = 4;
+audio_channel_num(30);
 </string>
           </argument>
         </arguments>
