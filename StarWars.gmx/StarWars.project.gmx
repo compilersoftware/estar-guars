@@ -47,6 +47,10 @@
     </sprites>
     <sprites name="Malos">
       <sprite>sprites\spr_MoradorArenas</sprite>
+      <sprite>sprites\spr_TropAbj</sprite>
+      <sprite>sprites\spr_TropIzq</sprite>
+      <sprite>sprites\spr_TropDer</sprite>
+      <sprite>sprites\spr_TropArr</sprite>
     </sprites>
     <sprites name="Main Title">
       <sprite>sprites\spr_PressKey</sprite>
