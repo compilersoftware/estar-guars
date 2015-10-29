@@ -10,6 +10,7 @@
     <sound>sound\snd_Explode01</sound>
     <sound>sound\snd_MainTheme</sound>
     <sound>sound\snd_Force</sound>
+    <sound>sound\snd_Armado</sound>
   </sounds>
   <sprites name="sprites">
     <sprites name="Luke">
@@ -57,7 +58,10 @@
       <sprite>sprites\spr_Logo</sprite>
     </sprites>
     <sprite>sprites\spr_Interface</sprite>
-    <sprite>sprites\spr_Corazon</sprite>
+    <sprites name="Objetos">
+      <sprite>sprites\spr_Pistola</sprite>
+      <sprite>sprites\spr_Corazon</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background">
     <background>background\bck_Desierto</background>
@@ -69,7 +73,6 @@
   </fonts>
   <objects name="objects">
     <object>objects\obj_Luke</object>
-    <object>objects\obj_Disparo</object>
     <objects name="Desierto">
       <object>objects\obj_DesArrIzq</object>
       <object>objects\obj_DesArrDer</object>
@@ -104,7 +107,11 @@
       <object>objects\obj_MainTitle</object>
     </objects>
     <object>objects\obj_MarcadorDesierto</object>
-    <object>objects\obj_Corazon</object>
+    <objects name="Objetos">
+      <object>objects\obj_Corazon</object>
+      <object>objects\obj_Disparo</object>
+      <object>objects\obj_Pistola</object>
+    </objects>
   </objects>
   <rooms name="rooms">
     <room>rooms\rom_Title</room>

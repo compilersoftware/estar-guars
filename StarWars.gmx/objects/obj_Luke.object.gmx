@@ -29,6 +29,7 @@
 image_index = 1;
 velocidad = 4;
 audio_channel_num(30);
+pistola = 0;
 </string>
           </argument>
         </arguments>
@@ -220,7 +221,9 @@ x-=velocidad;
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>if (sprite_index = spr_LukeAbajo)
+            <string>if (pistola == 1)
+{
+if (sprite_index = spr_LukeAbajo)
 {
 disparo = instance_create(x+8,y,obj_Disparo);
 disparo.sprite_index = spr_DispVertical;
@@ -246,6 +249,7 @@ if (sprite_index = spr_LukeDerecha)
 disparo = instance_create(x+16,y+20,obj_Disparo);
 //disparo.sprite_index = spr_DispVertical;
 disparo.hspeed = 16;
+}
 }
 </string>
           </argument>

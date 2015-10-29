@@ -69,11 +69,7 @@
     <instance objName="obj_DesHorizontal" x="128" y="352" name="inst_9D964AEE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesHorizontal" x="160" y="352" name="inst_6DD21007" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesHorizontal" x="192" y="352" name="inst_C7BE2E90" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_DesHorizontal" x="256" y="352" name="inst_C6810E36" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesHorizontal" x="384" y="352" name="inst_53C396E3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_DesHorizontal" x="416" y="352" name="inst_7F28321F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_DesAbjDer" x="480" y="352" name="inst_F9CD21C6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_DesHorizontal" x="448" y="352" name="inst_D224E04B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesVertical" x="0" y="32" name="inst_FEE340F5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesVertical" x="0" y="64" name="inst_430E4778" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesVertical" x="0" y="96" name="inst_16B609B0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -83,11 +79,6 @@
     <instance objName="obj_DesVertical" x="0" y="224" name="inst_EFC1894B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesVertical" x="0" y="288" name="inst_93EDB1B1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesVertical" x="0" y="320" name="inst_A7D93EB3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_DesVertical" x="480" y="320" name="inst_5988662F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_DesVertical" x="480" y="288" name="inst_CA212E93" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_DesVertical" x="480" y="224" name="inst_ACA7F8F4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_Luke" x="224" y="160" name="inst_04C0E4B9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_DesTHorDer" x="480" y="256" name="inst_64534F9A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesHorizontal" x="448" y="256" name="inst_4EB93234" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesHorizontal" x="416" y="256" name="inst_FEF92523" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesTHorIzq" x="0" y="256" name="inst_11E0D96B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -98,13 +89,10 @@
     <instance objName="obj_DesVertical" x="192" y="32" name="inst_BE07E1E4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesVertical" x="192" y="64" name="inst_C9DDE87A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesVertical" x="192" y="96" name="inst_37951197" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_DesTHorAbj" x="288" y="352" name="inst_C9284D4C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesVertical" x="288" y="320" name="inst_4F281C8C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesVertical" x="288" y="288" name="inst_18E2C674" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesRoca01" x="384" y="64" name="inst_69B792EB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesFinVerArr" x="192" y="128" name="inst_F359FDAA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_DesGenerador" x="32" y="32" name="inst_03317217" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_DesGenerador" x="448" y="320" name="inst_8A128205" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesHorizontal" x="352" y="256" name="inst_3CB7DC70" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesHorizontal" x="384" y="256" name="inst_B0EF0DE7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesHorizontal" x="320" y="256" name="inst_42228432" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -114,8 +102,6 @@
     <instance objName="obj_DesArrDer" x="224" y="256" name="inst_034472B0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesVertical" x="224" y="288" name="inst_29B66198" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesVertical" x="224" y="320" name="inst_69AA1E85" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_DesTHorAbj" x="224" y="352" name="inst_2360CE22" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_DesGenerador" x="32" y="320" name="inst_6CA2A87C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesHorizontal" x="64" y="0" name="inst_93B454C5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesHorRotoDoble" x="96" y="256" name="inst_3911612B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesTHorIzq" x="0" y="352" name="inst_19CD895C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -123,7 +109,6 @@
     <instance objName="obj_DesVertical" x="0" y="416" name="inst_9A9347BB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesVertical" x="0" y="448" name="inst_8ABEB6E2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesVertical" x="0" y="480" name="inst_01274731" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_DesVertical" x="0" y="512" name="inst_26C8D09D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesVertical" x="0" y="544" name="inst_2F0A7557" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesVertical" x="0" y="576" name="inst_FC51AB5A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesVertical" x="0" y="608" name="inst_2E0B8BB3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -473,7 +458,6 @@
     <instance objName="obj_DesHorizontal" x="608" y="0" name="inst_6579C44A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesHorizontal" x="640" y="0" name="inst_E8E32FAB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesHorizontal" x="672" y="0" name="inst_9B445EDF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_DesHorizontal" x="704" y="0" name="inst_DFE04873" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesHorizontal" x="736" y="0" name="inst_ECF255B8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesHorizontal" x="768" y="0" name="inst_D25DF231" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesHorizontal" x="800" y="0" name="inst_9DCFDAF8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -519,7 +503,54 @@
     <instance objName="obj_DesHorizontal" x="2080" y="0" name="inst_C165F578" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_BolaSuelo" x="512" y="96" name="inst_7658D8A7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_MarcadorDesierto" x="64" y="32" name="inst_4ADF28C1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_DesHorRotoDoble" x="320" y="352" name="inst_7E48205B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesGenerador" x="192" y="320" name="inst_A5776941" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesGenerador" x="320" y="320" name="inst_689E4136" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesHorRotoDoble" x="416" y="352" name="inst_20D0A23F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesHorizontal" x="320" y="352" name="inst_D21CD92F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesHorizontal" x="352" y="352" name="inst_C7C2C902" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_Pistola" x="32" y="384" name="inst_DD9E2753" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesAbjIzq" x="288" y="352" name="inst_D7B78D09" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesAbjDer" x="224" y="352" name="inst_9803CE1E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesArrIzq" x="480" y="224" name="inst_ACCE81A0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesHorizontal" x="640" y="224" name="inst_0B9CD040" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesHorizontal" x="608" y="224" name="inst_7BEA48CD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesHorizontal" x="576" y="224" name="inst_488FC593" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesHorizontal" x="544" y="224" name="inst_926A8354" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesHorizontal" x="512" y="224" name="inst_B4DC4C29" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesGenerador" x="96" y="96" name="inst_BB3C984A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_Luke" x="320" y="96" name="inst_C9110C27" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesAbjDer" x="704" y="224" name="inst_083E066C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesHorizontal" x="672" y="224" name="inst_60B97F7B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesTHorArr" x="704" y="0" name="inst_8B0951E3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesVertical" x="704" y="32" name="inst_06577F2E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesVertical" x="704" y="64" name="inst_AB1A4711" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesVertical" x="704" y="96" name="inst_0338F55F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesVertical" x="704" y="128" name="inst_A3B5A73D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesVertical" x="704" y="160" name="inst_11127FA3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesVertical" x="704" y="192" name="inst_5B8E0716" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesAbjDer" x="480" y="256" name="inst_4479B058" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesArrDer" x="480" y="352" name="inst_4055A8D5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesVertical" x="480" y="480" name="inst_BF3C97FB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesVertical" x="480" y="448" name="inst_47766810" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesVertical" x="480" y="416" name="inst_F6B1A724" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesVertical" x="480" y="384" name="inst_ADFEC6D1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesAbjDer" x="480" y="512" name="inst_821BB74F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesTHorIzq" x="0" y="512" name="inst_EE396FC9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesHorizontal" x="32" y="512" name="inst_F2F2451E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesHorizontal" x="64" y="512" name="inst_E7C98F67" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesHorizontal" x="96" y="512" name="inst_7239C97A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesHorizontal" x="128" y="512" name="inst_492772D3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesHorizontal" x="160" y="512" name="inst_79DE37D5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesHorizontal" x="192" y="512" name="inst_E48DBB8E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesHorizontal" x="224" y="512" name="inst_E8B07B5A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesHorizontal" x="256" y="512" name="inst_41A7E3B7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesHorizontal" x="288" y="512" name="inst_59D01460" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesHorizontal" x="320" y="512" name="inst_C1ED0CB6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesHorizontal" x="352" y="512" name="inst_7122CC6A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesHorizontal" x="384" y="512" name="inst_BE9A0BF2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesHorizontal" x="416" y="512" name="inst_9B13D77F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesHorizontal" x="448" y="512" name="inst_6FEC6739" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesGenerador" x="448" y="416" name="inst_4C140426" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
