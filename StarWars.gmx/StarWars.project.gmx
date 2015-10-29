@@ -61,6 +61,7 @@
     <sprites name="Objetos">
       <sprite>sprites\spr_Pistola</sprite>
       <sprite>sprites\spr_Corazon</sprite>
+      <sprite>sprites\spr_Nave</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background">
@@ -70,6 +71,7 @@
   <paths name="paths"/>
   <fonts name="fonts">
     <font>fonts\fnt_01</font>
+    <font>fonts\fnt_Globos</font>
   </fonts>
   <objects name="objects">
     <object>objects\obj_Luke</object>
@@ -111,6 +113,7 @@
       <object>objects\obj_Corazon</object>
       <object>objects\obj_Disparo</object>
       <object>objects\obj_Pistola</object>
+      <object>objects\obj_Halcon</object>
     </objects>
   </objects>
   <rooms name="rooms">

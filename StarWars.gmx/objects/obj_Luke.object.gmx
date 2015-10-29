@@ -30,6 +30,11 @@ image_index = 1;
 velocidad = 4;
 audio_channel_num(30);
 pistola = 0;
+leia = 0;
+han = 0;
+chewi = 0;
+rd2d = 0;
+c3po = 0;
 </string>
           </argument>
         </arguments>
