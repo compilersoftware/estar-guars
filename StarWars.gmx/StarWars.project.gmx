@@ -9,6 +9,7 @@
     <sound>sound\snd_Muerto</sound>
     <sound>sound\snd_Explode01</sound>
     <sound>sound\snd_MainTheme</sound>
+    <sound>sound\snd_Force</sound>
   </sounds>
   <sprites name="sprites">
     <sprites name="Luke">
@@ -39,19 +40,29 @@
       <sprite>sprites\spr_DesFinHorDer</sprite>
       <sprite>sprites\spr_DesFinVerArr</sprite>
       <sprite>sprites\spr_DesAgujero</sprite>
+      <sprite>sprites\spr_DesHorRotoDoble</sprite>
+      <sprite>sprites\spr_DesTierra</sprite>
+      <sprite>sprites\spr_BolaSuelo</sprite>
       <sprite>sprites\spr_DesGenerador</sprite>
     </sprites>
     <sprites name="Malos">
       <sprite>sprites\spr_MoradorArenas</sprite>
     </sprites>
-    <sprite>sprites\spr_Logo</sprite>
-    <sprite>sprites\spr_PressKey</sprite>
+    <sprites name="Main Title">
+      <sprite>sprites\spr_PressKey</sprite>
+      <sprite>sprites\spr_Logo</sprite>
+    </sprites>
+    <sprite>sprites\spr_Interface</sprite>
+    <sprite>sprites\spr_Corazon</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bck_Desierto</background>
     <background>background\bck_Title</background>
   </backgrounds>
   <paths name="paths"/>
+  <fonts name="fonts">
+    <font>fonts\fnt_01</font>
+  </fonts>
   <objects name="objects">
     <object>objects\obj_Luke</object>
     <object>objects\obj_Disparo</object>
@@ -72,9 +83,12 @@
       <object>objects\obj_DesTHorAbj</object>
       <object>objects\obj_DesRoca01</object>
       <object>objects\obj_DesHorRoto</object>
+      <object>objects\obj_DesHorRotoDoble</object>
       <object>objects\obj_DesFinHorDer</object>
       <object>objects\obj_DesFinVerArr</object>
       <object>objects\obj_DesAgujero</object>
+      <object>objects\obj_BolaSuelo</object>
+      <object>objects\obj_DesTierra</object>
       <object>objects\obj_DesGenerador</object>
     </objects>
     <objects name="Malos">
@@ -85,6 +99,8 @@
       <object>objects\obj_PressKey</object>
       <object>objects\obj_MainTitle</object>
     </objects>
+    <object>objects\obj_MarcadorDesierto</object>
+    <object>objects\obj_Corazon</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rom_Title</room>
