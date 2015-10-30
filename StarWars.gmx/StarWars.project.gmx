@@ -11,6 +11,7 @@
     <sound>sound\snd_MainTheme</sound>
     <sound>sound\snd_Force</sound>
     <sound>sound\snd_Armado</sound>
+    <sound>sound\snd_c3po</sound>
   </sounds>
   <sprites name="sprites">
     <sprites name="Luke">
@@ -62,6 +63,11 @@
       <sprite>sprites\spr_Pistola</sprite>
       <sprite>sprites\spr_Corazon</sprite>
       <sprite>sprites\spr_Nave</sprite>
+      <sprite>sprites\spr_c3po</sprite>
+    </sprites>
+    <sprites name="Textos">
+      <sprite>sprites\spr_BocadilloTripulacion</sprite>
+      <sprite>sprites\spr_Bocadilloc3po</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background">
@@ -113,7 +119,12 @@
       <object>objects\obj_Corazon</object>
       <object>objects\obj_Disparo</object>
       <object>objects\obj_Pistola</object>
+      <object>objects\obj_c3po</object>
       <object>objects\obj_Halcon</object>
+    </objects>
+    <objects name="Textos">
+      <object>objects\obj_BocadilloTripulacion</object>
+      <object>objects\obj_Bocadilloc3po</object>
     </objects>
   </objects>
   <rooms name="rooms">
