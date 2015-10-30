@@ -12,6 +12,7 @@
     <sound>sound\snd_Force</sound>
     <sound>sound\snd_Armado</sound>
     <sound>sound\snd_c3po</sound>
+    <sound>sound\snd_Disparador</sound>
   </sounds>
   <sprites name="sprites">
     <sprites name="Luke">
@@ -53,6 +54,7 @@
       <sprite>sprites\spr_TropIzq</sprite>
       <sprite>sprites\spr_TropDer</sprite>
       <sprite>sprites\spr_TropArr</sprite>
+      <sprite>sprites\spr_Disparador</sprite>
     </sprites>
     <sprites name="Main Title">
       <sprite>sprites\spr_PressKey</sprite>
@@ -61,6 +63,7 @@
     <sprite>sprites\spr_Interface</sprite>
     <sprites name="Objetos">
       <sprite>sprites\spr_Pistola</sprite>
+      <sprite>sprites\spr_BalaTierra</sprite>
       <sprite>sprites\spr_Corazon</sprite>
       <sprite>sprites\spr_Nave</sprite>
       <sprite>sprites\spr_c3po</sprite>
@@ -108,6 +111,8 @@
     </objects>
     <objects name="Malos">
       <object>objects\obj_MoradorArenas</object>
+      <object>objects\obj_Disparador</object>
+      <object>objects\obj_BalaTierra</object>
     </objects>
     <objects name="Main title">
       <object>objects\obj_Logo</object>
