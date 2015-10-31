@@ -563,6 +563,9 @@
     <instance objName="obj_StormRecorrido" x="544" y="928" name="inst_58822DA2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_StormRecorrido" x="608" y="928" name="inst_8D48D00C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_StormRecorrido" x="576" y="864" name="inst_84BF0C22" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_GeneraCangrejos" x="608" y="640" name="inst_F6F68200" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_XWinRoto" x="1280" y="1120" name="inst_267A3092" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_TransporteImperial" x="1120" y="640" name="inst_49A6F4CE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

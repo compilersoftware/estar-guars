@@ -47,15 +47,23 @@
       <sprite>sprites\spr_DesTierra</sprite>
       <sprite>sprites\des_ChapaSuelo</sprite>
       <sprite>sprites\spr_BolaSuelo</sprite>
-      <sprite>sprites\spr_DesGenerador</sprite>
+      <sprite>sprites\spr_DesXWinRoto</sprite>
     </sprites>
     <sprites name="Malos">
+      <sprite>sprites\spr_Storm</sprite>
       <sprite>sprites\spr_MoradorArenas</sprite>
       <sprite>sprites\spr_TropAbj</sprite>
       <sprite>sprites\spr_TropIzq</sprite>
       <sprite>sprites\spr_TropDer</sprite>
       <sprite>sprites\spr_TropArr</sprite>
       <sprite>sprites\spr_Disparador</sprite>
+      <sprite>sprites\spr_DesGenerador</sprite>
+      <sprite>sprites\spr_CreadorCangrejos</sprite>
+      <sprite>sprites\spr_TransporteImperial</sprite>
+      <sprite>sprites\spr_DisparoMalosHor</sprite>
+      <sprite>sprites\spr_DisparoMalosVert</sprite>
+      <sprite>sprites\spr_DisparoStorm</sprite>
+      <sprite>sprites\spr_Cangrejo</sprite>
     </sprites>
     <sprites name="Main Title">
       <sprite>sprites\spr_PressKey</sprite>
@@ -67,6 +75,10 @@
       <sprite>sprites\spr_BalaTierra</sprite>
       <sprite>sprites\spr_Corazon</sprite>
       <sprite>sprites\spr_Nave</sprite>
+      <sprite>sprites\spr_Leia</sprite>
+      <sprite>sprites\spr_Chewi</sprite>
+      <sprite>sprites\spr_Han</sprite>
+      <sprite>sprites\spr_R2D2</sprite>
       <sprite>sprites\spr_c3po</sprite>
     </sprites>
     <sprites name="Textos">
@@ -80,6 +92,7 @@
   </backgrounds>
   <paths name="paths">
     <path>paths\path0</path>
+    <path>paths\path_Horizontal</path>
   </paths>
   <fonts name="fonts">
     <font>fonts\fnt_01</font>
@@ -110,14 +123,20 @@
       <object>objects\obj_DesAgujero</object>
       <object>objects\obj_BolaSuelo</object>
       <object>objects\obj_ChapaSuelo</object>
+      <object>objects\obj_XWinRoto</object>
       <object>objects\obj_DesTierra</object>
-      <object>objects\obj_DesGenerador</object>
     </objects>
     <objects name="Malos">
       <object>objects\obj_MoradorArenas</object>
+      <object>objects\obj_Storm</object>
+      <object>objects\obj_Cangrejo</object>
       <object>objects\obj_StormRecorrido</object>
       <object>objects\obj_Disparador</object>
+      <object>objects\obj_DesGenerador</object>
+      <object>objects\obj_GeneraCangrejos</object>
+      <object>objects\obj_TransporteImperial</object>
       <object>objects\obj_BalaTierra</object>
+      <object>objects\obj_DisparoStorm</object>
     </objects>
     <objects name="Main title">
       <object>objects\obj_Logo</object>
