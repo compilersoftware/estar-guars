@@ -62,6 +62,26 @@ if (obj_Luke.c3po ==1)
 {
 draw_sprite(spr_c3po,0,view_xview+598,view_yview+4);
 }
+
+if (obj_Luke.r2d2 ==1)
+{
+draw_sprite(spr_R2D2 ,0,view_xview+556,view_yview+4);
+}
+
+if (obj_Luke.chewi ==1)
+{
+draw_sprite(spr_ChewiPeque ,0,view_xview+514,view_yview+4);
+}
+
+if (obj_Luke.han ==1)
+{
+draw_sprite(spr_Han ,0,view_xview+472, view_yview+4);
+}
+
+if (obj_Luke.leia ==1)
+{
+draw_sprite(spr_Leia ,0,view_xview+430, view_yview+4);
+}
 </string>
           </argument>
         </arguments>

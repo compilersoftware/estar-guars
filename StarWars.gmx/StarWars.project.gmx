@@ -13,6 +13,10 @@
     <sound>sound\snd_Armado</sound>
     <sound>sound\snd_c3po</sound>
     <sound>sound\snd_Disparador</sound>
+    <sound>sound\snd_r2d2</sound>
+    <sound>sound\snd_Chewi</sound>
+    <sound>sound\snd_HanSolo</sound>
+    <sound>sound\snd_Leia</sound>
   </sounds>
   <sprites name="sprites">
     <sprites name="Luke">
@@ -79,11 +83,16 @@
       <sprite>sprites\spr_Chewi</sprite>
       <sprite>sprites\spr_Han</sprite>
       <sprite>sprites\spr_R2D2</sprite>
+      <sprite>sprites\spr_ChewiPeque</sprite>
       <sprite>sprites\spr_c3po</sprite>
     </sprites>
     <sprites name="Textos">
       <sprite>sprites\spr_BocadilloTripulacion</sprite>
       <sprite>sprites\spr_Bocadilloc3po</sprite>
+      <sprite>sprites\spr_BocadilloR2D2</sprite>
+      <sprite>sprites\spr_BocadilloChewi</sprite>
+      <sprite>sprites\spr_BocadilloLeia</sprite>
+      <sprite>sprites\spr_BocadilloHan</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background">
@@ -149,11 +158,19 @@
       <object>objects\obj_Disparo</object>
       <object>objects\obj_Pistola</object>
       <object>objects\obj_c3po</object>
+      <object>objects\obj_R2D2</object>
+      <object>objects\obj_Chewi</object>
+      <object>objects\obj_Leia</object>
+      <object>objects\obj_Han</object>
       <object>objects\obj_Halcon</object>
     </objects>
     <objects name="Textos">
       <object>objects\obj_BocadilloTripulacion</object>
       <object>objects\obj_Bocadilloc3po</object>
+      <object>objects\obj_BocadilloR2D2</object>
+      <object>objects\obj_BocadilloChewi</object>
+      <object>objects\obj_BocadilloLeia</object>
+      <object>objects\obj_BocadilloHan</object>
     </objects>
   </objects>
   <rooms name="rooms">
