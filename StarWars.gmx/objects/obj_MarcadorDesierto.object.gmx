@@ -55,7 +55,7 @@ room_goto(rom_Title)
 
 if (obj_Luke.pistola == 1)
 {
-draw_sprite(spr_Pistola,0,view_xview+300,view_yview+4);
+draw_sprite(spr_Pistola,0,view_xview+388,view_yview+4);
 }
 
 if (obj_Luke.c3po ==1)

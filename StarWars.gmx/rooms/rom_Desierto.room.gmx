@@ -567,6 +567,15 @@
     <instance objName="obj_Leia" x="160" y="576" name="inst_CF6E0C69" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_Han" x="32" y="704" name="inst_10694693" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_Chewi" x="163" y="687" name="inst_E50553BD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesMontana01" x="32" y="2624" name="inst_0CEC6606" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesMontana01" x="96" y="2592" name="inst_C4EC80B3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesMontana01" x="160" y="2688" name="inst_B82E8A79" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesMontana02" x="128" y="2656" name="inst_8BDBD821" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesMontana02" x="64" y="2560" name="inst_663882BA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesMontana02" x="192" y="2656" name="inst_86F205E8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesMontana02" x="224" y="2688" name="inst_632F0811" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesMontana02" x="256" y="2656" name="inst_668BC22D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesMontana02" x="288" y="2624" name="inst_1B0590F6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

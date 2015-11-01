@@ -52,6 +52,8 @@
       <sprite>sprites\des_ChapaSuelo</sprite>
       <sprite>sprites\spr_BolaSuelo</sprite>
       <sprite>sprites\spr_DesXWinRoto</sprite>
+      <sprite>sprites\spr_Montana01</sprite>
+      <sprite>sprites\spr_Montana02</sprite>
     </sprites>
     <sprites name="Malos">
       <sprite>sprites\spr_Storm</sprite>
@@ -67,7 +69,10 @@
       <sprite>sprites\spr_DisparoMalosHor</sprite>
       <sprite>sprites\spr_DisparoMalosVert</sprite>
       <sprite>sprites\spr_DisparoStorm</sprite>
+      <sprite>sprites\spr_Jawa</sprite>
       <sprite>sprites\spr_Cangrejo</sprite>
+      <sprite>sprites\spr_NaveJawa</sprite>
+      <sprite>sprites\spr_ATAT</sprite>
     </sprites>
     <sprites name="Main Title">
       <sprite>sprites\spr_PressKey</sprite>
@@ -134,6 +139,8 @@
       <object>objects\obj_ChapaSuelo</object>
       <object>objects\obj_XWinRoto</object>
       <object>objects\obj_DesTierra</object>
+      <object>objects\obj_DesMontana01</object>
+      <object>objects\obj_DesMontana02</object>
     </objects>
     <objects name="Malos">
       <object>objects\obj_MoradorArenas</object>
