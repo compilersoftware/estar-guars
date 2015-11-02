@@ -328,7 +328,10 @@ with (obj_BalaTierra)
 {
 instance_destroy();
 }
-
+with (obj_Jawa)
+{
+instance_destroy();
+}
 
 }
 </string>
