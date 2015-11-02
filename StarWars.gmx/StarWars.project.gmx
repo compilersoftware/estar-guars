@@ -145,12 +145,14 @@
     <objects name="Malos">
       <object>objects\obj_MoradorArenas</object>
       <object>objects\obj_Storm</object>
+      <object>objects\obj_Jawa</object>
       <object>objects\obj_Cangrejo</object>
       <object>objects\obj_StormRecorrido</object>
       <object>objects\obj_Disparador</object>
       <object>objects\obj_DesGenerador</object>
       <object>objects\obj_GeneraCangrejos</object>
       <object>objects\obj_TransporteImperial</object>
+      <object>objects\obj_TransporteJawa</object>
       <object>objects\obj_BalaTierra</object>
       <object>objects\obj_DisparoStorm</object>
     </objects>

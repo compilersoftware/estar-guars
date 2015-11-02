@@ -145,7 +145,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>health -=2;
+            <string>health -=1;
 </string>
           </argument>
         </arguments>

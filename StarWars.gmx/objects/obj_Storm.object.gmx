@@ -288,7 +288,7 @@ instance_create(x,y,obj_Corazon);
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>-2</string>
+            <string>-1</string>
           </argument>
         </arguments>
       </action>
