@@ -53,6 +53,30 @@ room_goto(rom_Title)
             <kind>1</kind>
             <string>draw_sprite(spr_Interface,0,view_xview,view_yview);
 
+switch (obj_Luke.fuerza)
+{
+case 0:
+fuerza=spr_FuezaNO;
+break;
+case 1:
+fuerza=spr_Fuerza1;
+break;
+case 2:
+fuerza=spr_Fuerza2;
+break;
+case 3:
+fuerza=spr_Fuerza3;
+break;
+}
+
+draw_sprite(fuerza,0,view_xview+346,view_yview+4);
+
+if (obj_Luke.usandofuerza ==1)
+{
+draw_sprite(spr_FuezaNO ,0,view_xview+346,view_yview+4);
+}
+
+
 if (obj_Luke.pistola == 1)
 {
 draw_sprite(spr_Pistola,0,view_xview+388,view_yview+4);

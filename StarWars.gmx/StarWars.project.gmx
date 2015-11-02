@@ -24,6 +24,11 @@
       <sprite>sprites\spr_LukeArriba</sprite>
       <sprite>sprites\spr_LukeDerecha</sprite>
       <sprite>sprites\spr_LukeIzquierda</sprite>
+      <sprite>sprites\spr_Fuerza3</sprite>
+      <sprite>sprites\spr_Fuerza2</sprite>
+      <sprite>sprites\spr_Fuerza1</sprite>
+      <sprite>sprites\spr_Fuerza0</sprite>
+      <sprite>sprites\spr_FuezaNO</sprite>
       <sprite>sprites\spr_DispHorizontal</sprite>
       <sprite>sprites\spr_DispVertical</sprite>
     </sprites>
@@ -99,6 +104,7 @@
       <sprite>sprites\spr_BocadilloLeia</sprite>
       <sprite>sprites\spr_BocadilloHan</sprite>
     </sprites>
+    <sprite>sprites\sprite72</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bck_Desierto</background>

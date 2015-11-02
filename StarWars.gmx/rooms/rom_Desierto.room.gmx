@@ -598,7 +598,6 @@
     <instance objName="obj_DesMontana01" x="416" y="2592" name="inst_4B06C172" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesMontana01" x="448" y="2592" name="inst_06B9E1F4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesMontana01" x="480" y="2560" name="inst_8742AB9A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_DesMontana01" x="448" y="2432" name="inst_2D3696A5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesMontana01" x="480" y="2400" name="inst_BED2E628" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesMontana01" x="480" y="2336" name="inst_8C37CAB6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesMontana01" x="512" y="2304" name="inst_2CCB3844" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -622,7 +621,6 @@
     <instance objName="obj_DesMontana01" x="544" y="2464" name="inst_E7D40599" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_GeneraCangrejos" x="512" y="2656" name="inst_F40F6DDC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_R2D2" x="96" y="2272" name="inst_925F8C5D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_DesMontana01" x="576" y="2240" name="inst_2E0142ED" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesMontana01" x="672" y="2304" name="inst_ACFF5337" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesMontana01" x="736" y="2400" name="inst_B070AA88" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesMontana01" x="704" y="2368" name="inst_C5F05B7F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -823,6 +821,9 @@
     <instance objName="obj_Disparador" x="832" y="1088" name="inst_278B6CD7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_TransporteImperial" x="192" y="1024" name="inst_766A813A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_TransporteImperial" x="768" y="1504" name="inst_1ED13741" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_Disparador" x="1536" y="2752" name="inst_FCA17483" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_GeneraCangrejos" x="224" y="1152" name="inst_7D3A9058" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_TransporteImperial" x="192" y="1344" name="inst_078853C0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

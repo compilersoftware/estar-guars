@@ -52,7 +52,7 @@
           <argument>
             <kind>1</kind>
             <string>distancia = round (distance_to_object(obj_Luke))
-if ((distancia &lt; 150) and (round(random_range(1,30)) == 5)) 
+if ((distancia &lt; 200) and (round(random_range(1,30)) == 5)) 
 {
 instance_create(x,y,obj_Storm );
 }
@@ -93,6 +93,7 @@ instance_create(x,y,obj_Storm );
           <argument>
             <kind>1</kind>
             <string>vida -=1;
+effect_create_above(ef_flare, x+16, y+16, 0, c_maroon);
 if (vida = 0)
 {
 effect_create_above(ef_explosion, x+16, y+16, 0, c_red);

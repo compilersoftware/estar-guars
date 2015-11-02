@@ -3,7 +3,7 @@
   <spriteName>spr_LukeAbajo</spriteName>
   <solid>0</solid>
   <visible>-1</visible>
-  <depth>0</depth>
+  <depth>-101</depth>
   <persistent>0</persistent>
   <parentName>&lt;undefined&gt;</parentName>
   <maskName>&lt;undefined&gt;</maskName>
@@ -35,6 +35,31 @@ han = 0;
 chewi = 0;
 r2d2 = 0;
 c3po = 0;
+fuerza = 3;
+usandofuerza = 0;
+</string>
+          </argument>
+        </arguments>
+      </action>
+    </event>
+    <event eventtype="2" enumb="0">
+      <action>
+        <libid>1</libid>
+        <id>603</id>
+        <kind>7</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
+            <string>usandofuerza=0;
 </string>
           </argument>
         </arguments>
@@ -257,6 +282,60 @@ x-=velocidad;
         </arguments>
       </action>
     </event>
+    <event eventtype="9" enumb="86">
+      <action>
+        <libid>1</libid>
+        <id>603</id>
+        <kind>7</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
+            <string>if (usandofuerza == 0 and fuerza &gt;0)
+{
+usandofuerza = 1;
+fuerza -=1;
+alarm[0] = 900;
+audio_play_sound(snd_Force,1,false);
+
+effect_create_above(ef_ellipse , x+16, y+16, 3, c_blue );
+
+with (obj_MoradorArenas)
+{
+instance_destroy();
+}
+with (obj_Storm)
+{
+instance_destroy();
+}
+with (obj_Cangrejo)
+{
+instance_destroy();
+}
+with (obj_DisparoStorm)
+{
+instance_destroy();
+}
+with (obj_BalaTierra)
+{
+instance_destroy();
+}
+
+
+}
+</string>
+          </argument>
+        </arguments>
+      </action>
+    </event>
     <event eventtype="9" enumb="32">
       <action>
         <libid>1</libid>
@@ -307,22 +386,6 @@ disparo.hspeed = 16;
 </string>
           </argument>
         </arguments>
-      </action>
-    </event>
-    <event eventtype="9" enumb="17">
-      <action>
-        <libid>1</libid>
-        <id>223</id>
-        <kind>0</kind>
-        <userelative>0</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>0</useapplyto>
-        <exetype>1</exetype>
-        <functionname>action_current_room</functionname>
-        <codestring></codestring>
-        <whoName>self</whoName>
-        <relative>0</relative>
-        <isnot>0</isnot>
       </action>
     </event>
     <event eventtype="10" enumb="40">
