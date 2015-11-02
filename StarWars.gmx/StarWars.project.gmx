@@ -78,6 +78,9 @@
       <sprite>sprites\spr_Cangrejo</sprite>
       <sprite>sprites\spr_NaveJawa</sprite>
       <sprite>sprites\spr_ATAT</sprite>
+      <sprite>sprites\spr_Jabba1</sprite>
+      <sprite>sprites\spr_Malo1Jabba</sprite>
+      <sprite>sprites\spr_Malo2Jabba</sprite>
     </sprites>
     <sprites name="Main Title">
       <sprite>sprites\spr_PressKey</sprite>
@@ -103,8 +106,8 @@
       <sprite>sprites\spr_BocadilloChewi</sprite>
       <sprite>sprites\spr_BocadilloLeia</sprite>
       <sprite>sprites\spr_BocadilloHan</sprite>
+      <sprite>sprites\spr_BocadilloArma</sprite>
     </sprites>
-    <sprite>sprites\sprite72</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bck_Desierto</background>
@@ -186,7 +189,9 @@
       <object>objects\obj_BocadilloChewi</object>
       <object>objects\obj_BocadilloLeia</object>
       <object>objects\obj_BocadilloHan</object>
+      <object>objects\obj_BocadilloArma</object>
     </objects>
+    <object>objects\obj_Jabba</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rom_Title</room>
