@@ -60,6 +60,7 @@
       <sprite>sprites\spr_Montana01</sprite>
       <sprite>sprites\spr_Montana02</sprite>
       <sprite>sprites\spr_DesPuertaMalos</sprite>
+      <sprite>sprites\spr_MuroJabba</sprite>
     </sprites>
     <sprites name="Malos">
       <sprite>sprites\spr_Storm</sprite>
@@ -150,6 +151,7 @@
       <object>objects\obj_PuertaJabba</object>
       <object>objects\obj_DesMontana01</object>
       <object>objects\obj_DesMontana02</object>
+      <object>objects\obj_MuroJabba</object>
     </objects>
     <objects name="Malos">
       <object>objects\obj_MoradorArenas</object>
@@ -157,7 +159,6 @@
       <object>objects\obj_Jawa</object>
       <object>objects\obj_MaloJabba1</object>
       <object>objects\obj_Cangrejo</object>
-      <object>objects\obj_StormRecorrido</object>
       <object>objects\obj_Disparador</object>
       <object>objects\obj_DesGenerador</object>
       <object>objects\obj_GeneradorPuerta</object>

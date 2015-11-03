@@ -820,10 +820,6 @@
     <instance objName="obj_TransporteImperial" x="192" y="1344" name="inst_078853C0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesHorizontal" x="2048" y="352" name="inst_D323DC2B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesHorizontal" x="2080" y="352" name="inst_48F7A663" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_DesHorizontal" x="2208" y="352" name="inst_F1AD13D0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_DesHorizontal" x="2272" y="352" name="inst_EE2C495C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_DesHorizontal" x="2304" y="352" name="inst_A01187CA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_DesHorizontal" x="2336" y="352" name="inst_C8D0918F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesHorizontal" x="2496" y="352" name="inst_DB170DF7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesHorizontal" x="2528" y="352" name="inst_D3AD5881" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesVertical" x="2016" y="384" name="inst_4C3493BF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -919,7 +915,6 @@
     <instance objName="obj_DesHorRotoDoble" x="2272" y="832" name="inst_A86A5792" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesTHorIzq" x="2240" y="832" name="inst_30871465" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesTHorDer" x="2336" y="832" name="inst_F411FBC1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_DesGenerador" x="2304" y="864" name="inst_AD7F771D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesAbjDer" x="2624" y="896" name="inst_BEF7FCB2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesFinVerAbj" x="2624" y="864" name="inst_169A6764" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesTHorIzq" x="2560" y="672" name="inst_F84FA65A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -1021,9 +1016,9 @@
     <instance objName="obj_DesHorizontal" x="2144" y="320" name="inst_864D8F8D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesHorizontal" x="2432" y="320" name="inst_7AE83AD5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesHorizontal" x="2432" y="704" name="inst_FA285015" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_DesTHorArr" x="2240" y="352" name="inst_D25B5A0D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesTHorArr" x="2208" y="352" name="inst_D25B5A0D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesTHorArr" x="2368" y="352" name="inst_D03E5403" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_DesFinVerArr" x="2240" y="384" name="inst_042F44C5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesFinVerArr" x="2208" y="384" name="inst_042F44C5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesFinVerArr" x="2368" y="384" name="inst_F2C45106" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesHorizontal" x="2400" y="992" name="inst_30BF8D9B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_DesHorizontal" x="2432" y="992" name="inst_1F988F14" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -1153,6 +1148,21 @@
     <instance objName="obj_GeneraCangrejos" x="2464" y="928" name="inst_6C44F94F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_TransporteImperial" x="2400" y="1536" name="inst_A72C0199" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_Disparador" x="2656" y="1536" name="inst_4812D9DA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesGenerador" x="2304" y="992" name="inst_85E1A431" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_MuroJabba" x="2240" y="352" name="inst_4E9A2736" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_MuroJabba" x="2304" y="352" name="inst_672448EA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesMontana01" x="1984" y="160" name="inst_A789EABC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesMontana01" x="2048" y="128" name="inst_9435E3C2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesMontana01" x="2080" y="96" name="inst_38123DD3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesMontana01" x="1984" y="32" name="inst_35DEF3E5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesMontana01" x="1920" y="64" name="inst_9A5D308C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesMontana01" x="1952" y="96" name="inst_EB39E65B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesMontana01" x="2208" y="128" name="inst_9A76667C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesMontana01" x="2304" y="64" name="inst_F1554688" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesMontana02" x="2016" y="128" name="inst_81D731C3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesMontana02" x="1952" y="192" name="inst_768A5EA9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesMontana02" x="1984" y="224" name="inst_8CB9C7F8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_DesMontana02" x="1888" y="32" name="inst_0EEADF00" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

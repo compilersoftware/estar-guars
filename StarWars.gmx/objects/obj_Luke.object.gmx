@@ -371,6 +371,7 @@ x-=velocidad;
 {
 usandofuerza = 1;
 fuerza -=1;
+health =100;
 alarm[0] = 900;
 audio_play_sound(snd_Force,1,false);
 
