@@ -400,6 +400,11 @@ with (obj_Jawa)
 {
 instance_destroy();
 }
+with (obj_MaloJabba1)
+{
+instance_destroy();
+}
+
 
 }
 </string>

@@ -59,6 +59,7 @@
       <sprite>sprites\spr_DesXWinRoto</sprite>
       <sprite>sprites\spr_Montana01</sprite>
       <sprite>sprites\spr_Montana02</sprite>
+      <sprite>sprites\spr_DesPuertaMalos</sprite>
     </sprites>
     <sprites name="Malos">
       <sprite>sprites\spr_Storm</sprite>
@@ -79,7 +80,6 @@
       <sprite>sprites\spr_NaveJawa</sprite>
       <sprite>sprites\spr_ATAT</sprite>
       <sprite>sprites\spr_Jabba1</sprite>
-      <sprite>sprites\spr_Malo1Jabba</sprite>
       <sprite>sprites\spr_Malo2Jabba</sprite>
     </sprites>
     <sprites name="Main Title">
@@ -119,7 +119,6 @@
   </paths>
   <fonts name="fonts">
     <font>fonts\fnt_01</font>
-    <font>fonts\fnt_Globos</font>
   </fonts>
   <objects name="objects">
     <object>objects\obj_Luke</object>
@@ -148,6 +147,7 @@
       <object>objects\obj_ChapaSuelo</object>
       <object>objects\obj_XWinRoto</object>
       <object>objects\obj_DesTierra</object>
+      <object>objects\obj_PuertaJabba</object>
       <object>objects\obj_DesMontana01</object>
       <object>objects\obj_DesMontana02</object>
     </objects>
@@ -155,13 +155,16 @@
       <object>objects\obj_MoradorArenas</object>
       <object>objects\obj_Storm</object>
       <object>objects\obj_Jawa</object>
+      <object>objects\obj_MaloJabba1</object>
       <object>objects\obj_Cangrejo</object>
       <object>objects\obj_StormRecorrido</object>
       <object>objects\obj_Disparador</object>
       <object>objects\obj_DesGenerador</object>
+      <object>objects\obj_GeneradorPuerta</object>
       <object>objects\obj_GeneraCangrejos</object>
       <object>objects\obj_TransporteImperial</object>
       <object>objects\obj_TransporteJawa</object>
+      <object>objects\obj_Jabba</object>
       <object>objects\obj_BalaTierra</object>
       <object>objects\obj_DisparoStorm</object>
     </objects>
@@ -191,7 +194,6 @@
       <object>objects\obj_BocadilloHan</object>
       <object>objects\obj_BocadilloArma</object>
     </objects>
-    <object>objects\obj_Jabba</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rom_Title</room>
