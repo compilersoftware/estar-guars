@@ -79,9 +79,11 @@
       <sprite>sprites\spr_Jawa</sprite>
       <sprite>sprites\spr_Cangrejo</sprite>
       <sprite>sprites\spr_NaveJawa</sprite>
-      <sprite>sprites\spr_ATAT</sprite>
+      <sprite>sprites\spr_ATAT_izq</sprite>
+      <sprite>sprites\spr_ATAT_der</sprite>
       <sprite>sprites\spr_Jabba1</sprite>
       <sprite>sprites\spr_Malo2Jabba</sprite>
+      <sprite>sprites\spr_Ewok</sprite>
     </sprites>
     <sprites name="Main Title">
       <sprite>sprites\spr_PressKey</sprite>
@@ -155,7 +157,9 @@
     </objects>
     <objects name="Malos">
       <object>objects\obj_MoradorArenas</object>
+      <object>objects\obj_Ewok</object>
       <object>objects\obj_Storm</object>
+      <object>objects\obj_ATAT</object>
       <object>objects\obj_Jawa</object>
       <object>objects\obj_MaloJabba1</object>
       <object>objects\obj_Cangrejo</object>
@@ -168,6 +172,7 @@
       <object>objects\obj_Jabba</object>
       <object>objects\obj_BalaTierra</object>
       <object>objects\obj_DisparoStorm</object>
+      <object>objects\obj_DisparoATAT</object>
     </objects>
     <objects name="Main title">
       <object>objects\obj_Logo</object>
@@ -185,6 +190,7 @@
       <object>objects\obj_Leia</object>
       <object>objects\obj_Han</object>
       <object>objects\obj_Halcon</object>
+      <object>objects\obj_FuerzaRecupera</object>
     </objects>
     <objects name="Textos">
       <object>objects\obj_BocadilloTripulacion</object>
