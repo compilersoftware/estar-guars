@@ -52,7 +52,7 @@
           <argument>
             <kind>1</kind>
             <string>distancia = round (distance_to_object(obj_Luke))
-if ((distancia &lt; 200) and (round(random_range(1,30)) == 5)) 
+if ((distancia &lt; 230) and (round(random_range(1,30)) == 5)) 
 {
 instance_create(x,y,obj_Storm );
 }
