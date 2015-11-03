@@ -17,6 +17,8 @@
     <sound>sound\snd_Chewi</sound>
     <sound>sound\snd_HanSolo</sound>
     <sound>sound\snd_Leia</sound>
+    <sound>sound\snd_ATATEXPLO</sound>
+    <sound>sound\snd_ImpactoEnNaves</sound>
   </sounds>
   <sprites name="sprites">
     <sprites name="Luke">

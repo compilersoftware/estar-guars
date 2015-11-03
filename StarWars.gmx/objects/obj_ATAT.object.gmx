@@ -89,7 +89,7 @@ xdisparo=80
 }
 if (x&lt;(room_width-250))
 {x+=1;
-image_speed=0.3;
+image_speed=0.1;
 } else {image_speed=0;}
 }
 if (obj_Luke.x &lt; x) 
@@ -101,7 +101,7 @@ xdisparo=-16;
 }
 if (x&gt;2144)
 {x-=1;
-image_speed=0.3;
+image_speed=0.1;
 } else {image_speed=0;}
 }
 }
@@ -184,7 +184,7 @@ instance_create(x+xdisparo,y+10,obj_DisparoATAT );
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>snd_Muerto</sound>
+            <sound>snd_ImpactoEnNaves</sound>
           </argument>
           <argument>
             <kind>3</kind>
@@ -212,7 +212,7 @@ instance_create(x+xdisparo,y+10,obj_DisparoATAT );
           </argument>
           <argument>
             <kind>0</kind>
-            <string>25</string>
+            <string>40</string>
           </argument>
           <argument>
             <kind>4</kind>
@@ -270,9 +270,34 @@ instance_create(x+xdisparo,y+10,obj_DisparoATAT );
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>
+            <string>effect_create_above(ef_explosion, x+32, y+45, 3, c_red);
 instance_create(x,y,obj_Corazon);
+
 </string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>211</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>0</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_sound</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>6</kind>
+            <sound>snd_ATATEXPLO</sound>
+          </argument>
+          <argument>
+            <kind>3</kind>
+            <string>0</string>
           </argument>
         </arguments>
       </action>
