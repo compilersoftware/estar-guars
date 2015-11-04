@@ -94,6 +94,8 @@
     <sprites name="Main Title">
       <sprite>sprites\spr_PressKey</sprite>
       <sprite>sprites\spr_Logo</sprite>
+      <sprite>sprites\spr_Creditos</sprite>
+      <sprite>sprites\spr_PulsaUnaTecla</sprite>
     </sprites>
     <sprite>sprites\spr_Interface</sprite>
     <sprites name="Objetos">
@@ -117,8 +119,8 @@
       <sprite>sprites\spr_BocadilloHan</sprite>
       <sprite>sprites\spr_BocadilloArma</sprite>
       <sprite>sprites\spr_BocadilloEwok</sprite>
+      <sprite>sprites\spr_BocadilloRegresa</sprite>
     </sprites>
-    <sprite>sprites\spr_PulsaUnaTecla</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bck_Desierto</background>
@@ -191,6 +193,7 @@
       <object>objects\obj_Logo</object>
       <object>objects\obj_PressKey</object>
       <object>objects\obj_MainTitle</object>
+      <object>objects\obj_Creditos</object>
     </objects>
     <object>objects\obj_MarcadorDesierto</object>
     <objects name="Objetos">
@@ -214,6 +217,7 @@
       <object>objects\obj_BocadilloHan</object>
       <object>objects\obj_BocadilloArma</object>
       <object>objects\obj_BocadilloEwok</object>
+      <object>objects\obj_BocadilloRegreso</object>
     </objects>
     <objects name="PantallasMuerteYGanar">
       <object>objects\obj_PulsaUnaTecla</object>
