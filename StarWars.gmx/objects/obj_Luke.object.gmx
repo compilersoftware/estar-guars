@@ -38,6 +38,7 @@ c3po = 0;
 fuerza = 3;
 usandofuerza = 0;
 mataewoks = 0;
+apuntando = 0;
 </string>
           </argument>
         </arguments>
@@ -433,33 +434,76 @@ instance_destroy();
             <kind>1</kind>
             <string>if (pistola == 1)
 {
-if (sprite_index = spr_LukeAbajo)
+//vamos a probar la diagonal
+
+if (keyboard_check(vk_left) and keyboard_check(vk_up))
 {
-disparo = instance_create(x+8,y,obj_Disparo);
-disparo.sprite_index = spr_DispVertical;
-disparo.vspeed = 16;
+disparo = instance_create(x,y,obj_Disparo);
+disparo.image_angle = 135;
+disparo.direction =135;
+disparo.speed = 16;
 }
-else
-if (sprite_index = spr_LukeArriba)
+
+else {
+
+if (keyboard_check(vk_right) and keyboard_check(vk_up))
 {
-disparo = instance_create(x+23,y,obj_Disparo);
-disparo.sprite_index = spr_DispVertical;
-disparo.vspeed = -16;
+disparo = instance_create(x+32,y,obj_Disparo);
+disparo.image_angle = 45;
+disparo.direction = 45;
+disparo.speed = 16;
 }
-else
-if (sprite_index = spr_LukeIzquierda)
+
+else {
+
+if (keyboard_check(vk_left) and keyboard_check(vk_down))
 {
-disparo = instance_create(x,y+20,obj_Disparo);
-//disparo.sprite_index = spr_DispVertical;
-disparo.hspeed = -16;
+disparo = instance_create(x,y+32,obj_Disparo);
+disparo.image_angle = 225;
+disparo.direction = 225;
+disparo.speed = 16;
 }
-else
-if (sprite_index = spr_LukeDerecha)
+
+else {
+
+if (keyboard_check(vk_right) and keyboard_check(vk_down))
 {
-disparo = instance_create(x+16,y+20,obj_Disparo);
-//disparo.sprite_index = spr_DispVertical;
-disparo.hspeed = 16;
+disparo = instance_create(x+32,y+32,obj_Disparo);
+disparo.image_angle = 335;
+disparo.direction = 335;
+disparo.speed = 16;
 }
+else {
+
+            if (sprite_index = spr_LukeAbajo)
+            {
+            disparo = instance_create(x+8,y,obj_Disparo);
+            disparo.sprite_index = spr_DispVertical;
+            disparo.vspeed = 16;
+            }
+            else
+            if (sprite_index = spr_LukeArriba)
+            {
+            disparo = instance_create(x+23,y,obj_Disparo);
+            disparo.sprite_index = spr_DispVertical;
+            disparo.vspeed = -16;
+            }
+            else
+            if (sprite_index = spr_LukeIzquierda)
+            {
+            disparo = instance_create(x,y+20,obj_Disparo);
+            //disparo.sprite_index = spr_DispVertical;
+            disparo.hspeed = -16;
+            }
+            else
+            if (sprite_index = spr_LukeDerecha)
+            {
+            disparo = instance_create(x+16,y+20,obj_Disparo);
+            //disparo.sprite_index = spr_DispVertical;
+            disparo.hspeed = 16;
+      
+    }}}}}
+            
 }
 </string>
           </argument>

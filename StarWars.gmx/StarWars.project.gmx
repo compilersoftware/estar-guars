@@ -227,7 +227,6 @@
       <object>objects\obj_Ganas</object>
     </objects>
   </objects>
-  <timelines name="timelines"/>
   <rooms name="rooms">
     <room>rooms\rom_Title</room>
     <room>rooms\rom_Desierto</room>
