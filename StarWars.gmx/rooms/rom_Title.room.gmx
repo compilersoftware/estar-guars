@@ -52,8 +52,9 @@
   </views>
   <instances>
     <instance objName="obj_Logo" x="192" y="96" name="inst_5F503137" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_PressKey" x="57" y="353" name="inst_FC44B049" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_PressKey" x="240" y="352" name="inst_FC44B049" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_MainTitle" x="0" y="0" name="inst_67415272" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_deathstar" x="576" y="416" name="inst_F05A5A7C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

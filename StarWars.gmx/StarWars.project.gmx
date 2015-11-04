@@ -94,6 +94,7 @@
     <sprites name="Main Title">
       <sprite>sprites\spr_PressKey</sprite>
       <sprite>sprites\spr_Logo</sprite>
+      <sprite>sprites\spr_deathstar</sprite>
       <sprite>sprites\spr_Creditos</sprite>
       <sprite>sprites\spr_PulsaUnaTecla</sprite>
     </sprites>
@@ -191,6 +192,7 @@
     </objects>
     <objects name="Main title">
       <object>objects\obj_Logo</object>
+      <object>objects\obj_deathstar</object>
       <object>objects\obj_PressKey</object>
       <object>objects\obj_MainTitle</object>
       <object>objects\obj_Creditos</object>
