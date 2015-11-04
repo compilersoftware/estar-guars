@@ -27,7 +27,7 @@
             <kind>1</kind>
             <string>if (health &lt;=0)
 {
-room_goto(rom_Title)
+room_goto(rom_TeHanMatado)
 }
 </string>
           </argument>

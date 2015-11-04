@@ -19,6 +19,8 @@
     <sound>sound\snd_Leia</sound>
     <sound>sound\snd_ATATEXPLO</sound>
     <sound>sound\snd_ImpactoEnNaves</sound>
+    <sound>sound\snd_TeHanMatado</sound>
+    <sound>sound\snd_Ganas</sound>
   </sounds>
   <sprites name="sprites">
     <sprites name="Luke">
@@ -116,10 +118,13 @@
       <sprite>sprites\spr_BocadilloArma</sprite>
       <sprite>sprites\spr_BocadilloEwok</sprite>
     </sprites>
+    <sprite>sprites\spr_PulsaUnaTecla</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bck_Desierto</background>
     <background>background\bck_Title</background>
+    <background>background\bck_TeHanMatado</background>
+    <background>background\bck_Final01</background>
   </backgrounds>
   <paths name="paths">
     <path>paths\path0</path>
@@ -210,10 +215,18 @@
       <object>objects\obj_BocadilloArma</object>
       <object>objects\obj_BocadilloEwok</object>
     </objects>
+    <objects name="PantallasMuerteYGanar">
+      <object>objects\obj_PulsaUnaTecla</object>
+      <object>objects\obj_TeHanMatado</object>
+      <object>objects\obj_Ganas</object>
+    </objects>
   </objects>
+  <timelines name="timelines"/>
   <rooms name="rooms">
     <room>rooms\rom_Title</room>
     <room>rooms\rom_Desierto</room>
+    <room>rooms\rom_TeHanMatado</room>
+    <room>rooms\rom_Final</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
