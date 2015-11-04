@@ -33,11 +33,36 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>4</string>
+            <string>2</string>
           </argument>
           <argument>
             <kind>4</kind>
             <string>0</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>603</id>
+        <kind>7</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
+            <string>distancia = round (distance_to_object(obj_Luke))
+if ((distancia &lt; 200) and (round(random_range(1,20)) == 5)) 
+{
+instance_create(x+16,y+16,obj_DisparoStorm );
+}
+</string>
           </argument>
         </arguments>
       </action>
@@ -120,37 +145,6 @@
             <string>if (round(random_range(1,10)) = 5)
 {
 instance_create(x,y,obj_Corazon);
-}
-</string>
-          </argument>
-        </arguments>
-      </action>
-      <action>
-        <libid>1</libid>
-        <id>603</id>
-        <kind>7</kind>
-        <userelative>0</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>-1</useapplyto>
-        <exetype>2</exetype>
-        <functionname></functionname>
-        <codestring></codestring>
-        <whoName>self</whoName>
-        <relative>0</relative>
-        <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>1</kind>
-            <string>if (obj_Luke.mataewoks == 0)
-{
-obj_Luke.mataewoks =1;
-instance_create(obj_Luke.x,obj_Luke.y,obj_BocadilloEwok);
-
-with (obj_BocadilloEwok)
-{
-alarm[0]=90;
-}
-
 }
 </string>
           </argument>

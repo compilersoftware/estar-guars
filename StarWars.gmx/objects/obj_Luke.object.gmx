@@ -37,6 +37,7 @@ r2d2 = 0;
 c3po = 0;
 fuerza = 3;
 usandofuerza = 0;
+mataewoks = 0;
 </string>
           </argument>
         </arguments>

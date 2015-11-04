@@ -86,6 +86,8 @@
       <sprite>sprites\spr_Jabba1</sprite>
       <sprite>sprites\spr_Malo2Jabba</sprite>
       <sprite>sprites\spr_Ewok</sprite>
+      <sprite>sprites\spr_MalosoCasco</sprite>
+      <sprite>sprites\spr_GeneradorEwoks</sprite>
     </sprites>
     <sprites name="Main Title">
       <sprite>sprites\spr_PressKey</sprite>
@@ -112,6 +114,7 @@
       <sprite>sprites\spr_BocadilloLeia</sprite>
       <sprite>sprites\spr_BocadilloHan</sprite>
       <sprite>sprites\spr_BocadilloArma</sprite>
+      <sprite>sprites\spr_BocadilloEwok</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background">
@@ -164,12 +167,15 @@
       <object>objects\obj_ATAT</object>
       <object>objects\obj_Jawa</object>
       <object>objects\obj_MaloJabba1</object>
+      <object>objects\obj_MalosoCasco</object>
       <object>objects\obj_Cangrejo</object>
       <object>objects\obj_Disparador</object>
       <object>objects\obj_DesGenerador</object>
       <object>objects\obj_GeneradorPuerta</object>
+      <object>objects\obj_GeneradorPuertaCascos</object>
       <object>objects\obj_GeneraCangrejos</object>
       <object>objects\obj_TransporteImperial</object>
+      <object>objects\obj_GeneradorEwoks</object>
       <object>objects\obj_TransporteJawa</object>
       <object>objects\obj_Jabba</object>
       <object>objects\obj_BalaTierra</object>
@@ -202,6 +208,7 @@
       <object>objects\obj_BocadilloLeia</object>
       <object>objects\obj_BocadilloHan</object>
       <object>objects\obj_BocadilloArma</object>
+      <object>objects\obj_BocadilloEwok</object>
     </objects>
   </objects>
   <rooms name="rooms">
